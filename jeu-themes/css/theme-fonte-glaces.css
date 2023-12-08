@@ -101,7 +101,7 @@ header.smaller .Navigation li { height: 60px; }
 .mobile.closed .fa-times { display: block; }
 
 /* <<< Banner Section >>> */
-.Banner_sec { width: 100%; background: url(../img/secheresse.jpg) top center no-repeat; height: 687px; position: relative; background-size: cover; }
+.Banner_sec { width: 100%; background: url(../img/Banner-bg.jpg) top center no-repeat; height: 687px; position: relative; background-size: cover; }
 .Banner_sec .bannerside { width: 100%; position: absolute; top: 256px; left: 0px; }
 .Banner_sec .Center { max-width: 1100px; margin: auto; }
 .Banner_sec .leftside { padding: 92px 0px 0px 0px; width: 28.90%; float: left; }
@@ -242,7 +242,7 @@ header.smaller .Navigation li { height: 60px; }
 		.Map #GoogleMap { height: 399px; }
 
 		/* <<< Get Section >>> */
-		.Get_sec { width: 100%; overflow: hidden; background: url(../img/Get-bg.jpg) top center no-repeat; background-size: cover; }
+		.Get_sec { width: 100%; overflow: hidden; background: url(../img/glace.jpg) top center no-repeat; background-size: cover; }
 		.Get_sec .Mid { padding: 76px 0px 95px 0px; max-width: 1100px; margin: auto; overflow: hidden; }
 		.Get_sec .Leftside { width: 48.2%; float: left; }
 		.Get_sec .Leftside fieldset { padding: 0px; margin: 0px; }

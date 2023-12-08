@@ -101,7 +101,7 @@ header.smaller .Navigation li { height: 60px; }
 .mobile.closed .fa-times { display: block; }
 
 /* <<< Banner Section >>> */
-.Banner_sec { width: 100%; background: url(../img/secheresse.jpg) top center no-repeat; height: 687px; position: relative; background-size: cover; }
+.Banner_sec { width: 100%; background: url(../img/incendie.jpg) top center no-repeat; height: 687px; position: relative; background-size: cover; }
 .Banner_sec .bannerside { width: 100%; position: absolute; top: 256px; left: 0px; }
 .Banner_sec .Center { max-width: 1100px; margin: auto; }
 .Banner_sec .leftside { padding: 92px 0px 0px 0px; width: 28.90%; float: left; }
@@ -195,83 +195,8 @@ header.smaller .Navigation li { height: 60px; }
 	.Services_sec .Serviceside li.System h4 { padding: 138px 0px 0px 0px;  font-size: 18px; color: #5e5f61; text-decoration: none; letter-spacing: -1px; text-transform: uppercase; font-family: 'Open Sans', sans-serif; font-weight: 400;  }
 	.Services_sec .Serviceside li.System a:hover h4 { color: #fff; background: url(../img/systam-hover-icn.png) top center no-repeat;}
 	
-	/* <<< Pricing Section >>> */
-	/*.Pricing_sec { padding: 112px 0px 108px 0px ; width: 100%; overflow: hidden; background: #ececec; }
-	.Pricing_sec .Center { max-width: 1100px; margin: auto; overflow: hidden; text-align: center; }
-	.Pricing_sec h2 { font-size: 57px; color: #000; font-family: 'Oswald', sans-serif; font-weight: 400; margin: 0px; text-transform: uppercase; line-height: 60px; }
-	.Pricing_sec p { padding: 26px 0px 35px 0px; font-size: 14px; color: #8f8f8f; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
-	.Pricing_sec .Line { border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto; }
-	.Pricing_sec .Pricingside { padding: 75px 0px 0px 0px; width: 100%; overflow: hidden; text-align: initial; }
-	.Pricing_sec .Pricingside ul { list-style: none; margin: 0px; }
-	.Pricing_sec .Pricingside li { float: none; padding: 0px; margin: 0px 0px 11px 0px; height: 103px; background: #fff; text-align: center; }
-	.Pricing_sec .Pricingside li .Basic { width: 55px; float: left; display: table; height: 103px; background: #ff9408; transition: all ease 0.3s; }
-	.Pricing_sec .Pricingside li .Basic h5 { display: table-cell; vertical-align: middle; font-size: 17px; color: #2d2d2d; font-family: 'Oswald', sans-serif; font-weight: 400; text-transform: uppercase; margin: 0px; -webkit-transform: rotate(270deg); -moz-transform: rotate(270deg); -o-transform: rotate(270deg); -ms-transform: rotate(270deg); transform: rotate(270deg); clear: none; text-align: center; }
-	.Pricing_sec .Pricingside li .Dollar { padding: 22px 0px 21px 0px; width: 205px; float: left; background: #2d2d2d; transition: all ease 0.3s;}
-	.Pricing_sec .Pricingside li .Dollar h2 { font-size: 34px; color: #ff9408; font-family: 'Oswald', sans-serif; font-weight: 400; letter-spacing: 1px; }
 
-	.Pricing_sec .Pricingside li .Band { padding: 1px 30px; width: 173px; float: left; background: url(../img/divider.png) right 16px no-repeat; transition: all 0.3s ease; }
-	.Pricing_sec .Pricingside li .Band p { font-size: 16px; color: #979797; margin: 0px; font-family: 'Oswald', sans-serif; font-weight: 400; text-transform: uppercase; line-height: 20px; }
-	.Pricing_sec .Pricingside li .Band p span { display: block; }
-	.Pricing_sec .Pricingside li .Band.last { background: none; }
-	.Pricing_sec .Pricingside li .Order {width: 147px; float: left; display: table; height: 103px;  }
-	.Pricing_sec .Pricingside li .Order a { font-size: 17px; color: #fff; font-family: 'Oswald', sans-serif; font-weight: 400; text-decoration: none;  display: table-cell; vertical-align: middle; text-transform: uppercase;  background: #2d2d2d; }
-
-	.Pricing_sec .Pricingside li:hover .Basic { padding: 0px; background: #2d2d2d; }
-	.Pricing_sec .Pricingside li:hover .Basic h5 { color: #fff; }
-	.Pricing_sec .Pricingside li:hover .Band { padding: 0px; background: #2d2d2d url(../img/divider-black.png) right 16px no-repeat; height: 103px; }
-	.Pricing_sec .Pricingside li:hover .Band p { color: #fff; }
-	.Pricing_sec .Pricingside li:hover .Dollar { background: #ff9408; color: #fff; }
-	.Pricing_sec .Pricingside li:hover .Dollar h2 { color: #fff; }
-
-	.Pricing_sec .Pricingside li:hover .Order a { background: #ff9408; color: #fff; transition: all 0.3s ease;}
-*/
 	
-
-	/* <<< Contact Section >>> */
-	/*.Contact_sec { width: 100%; overflow: hidden; }
-	.Contact_sec .Contactside { background: url(../img/Contact-bg.jpg) top center no-repeat; background-size: cover; overflow: hidden;}
-	.Contact_sec .Center { padding: 115px 0px 77px 0px;  max-width: 1100px; margin: auto; overflow: hidden; text-align: center; }
-	.Contact_sec h2 { font-size: 57px; color: #fff; font-family: 'Oswald', sans-serif; font-weight: 400; margin: 0px; text-transform: uppercase; line-height: 60px;}
-	.Contact_sec p { padding: 24px 0px 35px 0px; font-size: 14px; color: #ebebeb; margin: 0px; font-family: 'Open Sans', sans-serif; line-height: 25px; font-weight: 400; }
-	.Contact_sec .Line { border: solid 1px #ff9408; height: 2px; width: 252px; margin: auto; }
-	.Contact_sec .Pricingside { padding: 70px 0px 10px 0px; width: 100%; overflow: hidden; text-align: initial; }
-	*/
-	/* <<< Map >>> */
-	.Map { position: relative; z-index: 1; width: 100%; overflow: hidden; box-shadow: 0px 1px 12px 3px #242424;
-		-webkit-box-shadow: 0px 1px 12px 3px #242424; -moz-box-shadow: 0px 1px 12px 3px #242424; -o-box-shadow: 0px 1px 12px 3px #242424; }
-		.Map #GoogleMap { height: 399px; }
-
-		/* <<< Get Section >>> */
-		.Get_sec { width: 100%; overflow: hidden; background: url(../img/Get-bg.jpg) top center no-repeat; background-size: cover; }
-		.Get_sec .Mid { padding: 76px 0px 95px 0px; max-width: 1100px; margin: auto; overflow: hidden; }
-		.Get_sec .Leftside { width: 48.2%; float: left; }
-		.Get_sec .Leftside fieldset { padding: 0px; margin: 0px; }
-		.Get_sec .Leftside p { padding: 0px; margin: 0px 0px 25px 0px;  }
-		.Get_sec .Leftside input.field { padding: 18px 20px 17px 20px; font-size: 14px; color: #979797; font-family: 'Open Sans', sans-serif; font-weight: 400; border: 0px; width: 100%; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424;
-		-o-box-shadow: 0px 2px 6px 0px #242424; border-radius: 0px; }
-		.Get_sec .Leftside input:focus { outline: none;}
-		.Get_sec .Leftside textarea { padding: 18px 20px 17px 20px; font-size: 14px; color: #979797; font-family: 'Open Sans', sans-serif; font-weight: 400; border: 0px; width: 100%; height: 156px; resize:none; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424; -o-box-shadow: 0px 2px 6px 0px #242424; border-radius: 0px; }
-		.Get_sec .Leftside textarea:focus { outline: none;}
-		.Get_sec .Leftside .button { padding: 16px 0px 17px 0px; margin-top: -3px; font-size: 14px; color: #e9ecee; font-family: 'Open Sans', sans-serif; font-weight: 700; text-align: center; background: #e2850a; border: 0px; text-transform:uppercase; width: 100%; cursor: pointer; box-shadow: 0px 2px 6px 0px #242424; -webkit-box-shadow: 0px 2px 6px 0px #242424; -moz-box-shadow: 0px 2px 6px 0px #242424; -o-box-shadow: 0px 2px 6px 0px #242424; border-radius: 0px; transition: all 0.3s ease;}
-		.Get_sec .Leftside .button:hover { background: #2d2d2d; color: #fff;}
-		.Get_sec .Rightside { padding-top: 12px; width: 48.18%; float: right;}
-		.Get_sec .Rightside h3 { padding-bottom: 44px; font-size: 46px; color: #f88e04; font-family: 'Oswald', sans-serif; font-weight: 400; margin: 0px; text-transform:uppercase; line-height: 46px; }
-		.Get_sec .Rightside address { padding: 0px 0px 27px 65px; margin-left: 3px; font-size: 14px; color: #ebedf1; font-family: 'Open Sans', sans-serif; font-weight: 400; font-style: normal; background: url(../img/location-icn.png) left 4px no-repeat; line-height: 24px;  }
-		.Get_sec .Rightside address.Number { background: url(../img/phone-icn.png) left 5px no-repeat; }
-		.Get_sec .Rightside address.Email { margin-left: 4px; background: url(../img/mail-icn.png) left 0px no-repeat; }
-		.Get_sec .Rightside address.Email a { text-decoration: none; color: #ebedf1; }
-		.Get_sec .Rightside address.Email a:Hover { color: #f88e04; }
-		.Get_sec .Rightside ul { list-style: none; margin: 0px; padding: 27px 0px 0px 3px; }
-		.Get_sec .Rightside li { float: left; padding: 0px; margin: 0px  22px 0px 0px; }
-		.Get_sec .Rightside li a { text-decoration: none; }
-
-		/* <<< footer >>> */
-		footer { overflow: hidden; width: 100%; text-align: center; background: rgba(0, 0, 0, 0.6); }
-		footer .Cntr { padding:  28px 0px; max-width: 1100px; margin: auto;}
-		footer .Cntr p { padding: 0px; font-size: 13px; color: #a9abad; font-family:'Open Sans'; margin: 0px; }
-		footer .Cntr a { color: #a9abad; text-decoration: none; }
-		footer .Cntr a:hover { color: #fff; }
-
 
 /* ==========================================================================
    Author's custom styles
